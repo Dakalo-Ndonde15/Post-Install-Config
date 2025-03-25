@@ -166,4 +166,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <br />
 
-  [Continue Here](https://github.com/niiobdavid/ticket-lifecycle)
+  [Continue Here](https://github.com/DakaloNdonde15/ticket-lifecycle)
